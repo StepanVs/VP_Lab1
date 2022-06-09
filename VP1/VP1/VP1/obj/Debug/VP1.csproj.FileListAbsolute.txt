@@ -1,0 +1,21 @@
+C:\Users\shevc\source\repos\VP1\VP1\bin\Debug\VP1.exe.config
+C:\Users\shevc\source\repos\VP1\VP1\bin\Debug\VP1.exe
+C:\Users\shevc\source\repos\VP1\VP1\bin\Debug\VP1.pdb
+C:\Users\shevc\source\repos\VP1\VP1\obj\Debug\VP1.csproj.AssemblyReference.cache
+C:\Users\shevc\source\repos\VP1\VP1\obj\Debug\VP1.Form1.resources
+C:\Users\shevc\source\repos\VP1\VP1\obj\Debug\VP1.Properties.Resources.resources
+C:\Users\shevc\source\repos\VP1\VP1\obj\Debug\VP1.csproj.GenerateResource.cache
+C:\Users\shevc\source\repos\VP1\VP1\obj\Debug\VP1.csproj.CoreCompileInputs.cache
+C:\Users\shevc\source\repos\VP1\VP1\obj\Debug\VP1.exe
+C:\Users\shevc\source\repos\VP1\VP1\obj\Debug\VP1.pdb
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\bin\Debug\VP1.exe.config
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\bin\Debug\VP1.exe
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\bin\Debug\VP1.pdb
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\obj\Debug\VP1.csproj.AssemblyReference.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\obj\Debug\VP1.csproj.SuggestedBindingRedirects.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\obj\Debug\VP1.Form1.resources
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\obj\Debug\VP1.Properties.Resources.resources
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\obj\Debug\VP1.csproj.GenerateResource.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\obj\Debug\VP1.csproj.CoreCompileInputs.cache
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\obj\Debug\VP1.exe
+E:\Навчання\Універ\Семестр 6\VisualProg\Lab\VP1\VP1\VP1\obj\Debug\VP1.pdb
